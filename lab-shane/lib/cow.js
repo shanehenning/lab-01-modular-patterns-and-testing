@@ -1,12 +1,3 @@
 module.exports = function(say){
-  return 'cow ' + say;
+  return 'the cow says ' + say;
 };
-//   `
-//   `         \\   ^__^
-//            \\  (oo)\\_______
-//               (__)\\       )\\/\\
-//                   ||----w |
-//                   ||     ||`;
-// };
-
-// require('./cow.js')();
